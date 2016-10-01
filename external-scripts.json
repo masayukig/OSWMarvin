@@ -10,5 +10,6 @@
   "hubot-rules",
   "hubot-scripts-stock",
   "hubot-shipit",
+  "hubot-weather",
   "hubot-weather-ja"
 ]

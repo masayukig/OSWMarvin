@@ -19,6 +19,7 @@
     "hubot-scripts-stock": "^0.2.1",
     "hubot-shipit": "^0.2.0",
     "hubot-slack": "^4.1.0",
+    "hubot-weather": "^1.0.3",
     "hubot-weather-ja": "^0.1.0"
   },
   "engines": {
