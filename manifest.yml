@@ -1,4 +1,4 @@
-applications:
+applications: # application parameters
 - buildpack: https://github.com/jthomas/nodejs-v4-buildpack.git
   command: ./bin/hubot --adapter slack
   path: .
